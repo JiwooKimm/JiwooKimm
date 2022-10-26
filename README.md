@@ -22,14 +22,14 @@
 
 #### 🔭 Activities
 
-**2022.07 ~** AI/Data Track of CNU SW Academy
+<b>2022.07 ~ </br> AI/Data Track of CNU SW Academy
 
 
 <br>
 
 #### 🎓
 
-**2019.03 ~**
+<b>2019.03 ~ </b>
 
 Space Plasma Physics of Magnetosphere
 Dept. of Astronomy, Space Science and Geology, Chunganm National University
@@ -39,7 +39,8 @@ Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
 
 
-
+<br>
+<br>
 
 <!--
 **JiwooKimm/JiwooKimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
