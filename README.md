@@ -2,8 +2,9 @@
 
 ###### *SLOW & STEADY, WIN THE RACE*
 
-
+<br>
 ------
+<br>
 
 #### 🌱 Stack (& currently Learning)
 
@@ -18,12 +19,16 @@
 <br>
 
 #### 🔭 Activities
+
 **2022.07 ~** AI/Data Track of CNU SW Academy
 
 
 <br>
+
 #### 🎓
-2019.03 ~ 
+
+**2019.03 ~**
+
 Space Plasma Physics of Magnetosphere
 Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
