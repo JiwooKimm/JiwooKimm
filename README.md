@@ -38,14 +38,14 @@
 
 #### 🎓
 
-2019.03 ~ 
+<u>2019.03 ~ <\u>
 
 Space Plasma Physics of Magnetosphere
 
 Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
 
-2016.03 ~ 2019.02
+<u>2016.03 ~ 2019.02<\u>
 
 Dept. of Astronomy & Space Science, Chungnam National University
 
