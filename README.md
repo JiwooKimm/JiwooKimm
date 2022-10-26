@@ -11,8 +11,8 @@
 #### 💫 Interests
 
 - Climate change, Environment, Space Weather
-- *There is no second Earth!* \\
-I hope to Scientist - Deep Learning Developer for prediction for climate change response plan
+- *There is no second Earth!* 
+  I hope to Scientist - Deep Learning Developer for prediction for climate change response plan
 
 <br>
 
