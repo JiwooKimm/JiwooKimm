@@ -28,21 +28,21 @@
 
 #### 🔭 Activities
 
-2022.07 ~ AI/Data Track of CNU SW Academy *(Rep. of Korea/ CNU)*
+- 2022.07 ~ (now) AI/Data Track of CNU SW Academy *(Rep. of Korea/ CNU)*
 
 
 <br>
 
 #### 🎓
 
-<u>2019.03 ~ </u>
+- 2019.03 ~ 
 
 Space Plasma Physics of Magnetosphere
 
 Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
 
-<u>2016.03 ~ 2019.02</u>
+- 2016.03 ~ 2019.02
 
 Dept. of Astronomy & Space Science, Chungnam National University
 
