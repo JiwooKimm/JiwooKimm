@@ -7,14 +7,15 @@
 ------
 
 <br>
-### 💫 Interests 
+#### 💫 Interests
 
+- Climate change, Environment, Space Weather
 - *There is no second Earth*
 I hope to Scientist - Deep Learning Developer for prediction for climate change response plan
 
 
 
-### 🌱 Stack (& currently Learning)
+#### 🌱 Stack (& currently Learning)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/idl-004880?style=flat&logo=idl&logoColor=white">
 
@@ -33,7 +34,7 @@ I hope to Scientist - Deep Learning Developer for prediction for climate change 
 
 <br>
 
-### 🎓
+#### 🎓
 
 2019.03 ~ 
 
