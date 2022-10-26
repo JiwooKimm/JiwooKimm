@@ -1,6 +1,6 @@
 ### 👋 **Hi there! I'm Jiwoo Kim**
 
-###### *SLOW & STEADY, WIN THE RACE*
+###### *STEADY, WIN THE RACE*
 
 <br>
 
