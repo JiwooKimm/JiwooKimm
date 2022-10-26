@@ -12,7 +12,7 @@
 
 - Climate change, Environment, Space Weather
 - *There is no second Earth!* <br>
-  I hope to Scientist - Deep Learning Developer for prediction for climate change response plan
+  I hope to Scientist - Deep Learning Developer for prediction of climate change response plan. 
 
 <br>
 
@@ -50,8 +50,14 @@ Dept. of Astronomy, Space Science and Geology, Chunganm National University
 Dept. of Astronomy & Space Science, Chungnam National University
 
 
+<br><br>
 
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br>
 <br>
