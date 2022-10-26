@@ -53,7 +53,7 @@ Dept. of Astronomy & Space Science, Chungnam National University
 <h4 align="left">✨ Github Stats ✨</h4>
 <div align="left">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwookimm&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=algolia&bg_color=white,grey,darkgrey,black&text_color=black&hide_border=False&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwookimm&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=algolia&bg_color=white,grey,darkgrey,black&text_color=black&hide_border=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
