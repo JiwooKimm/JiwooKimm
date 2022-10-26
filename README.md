@@ -1,4 +1,4 @@
-#### **👋 Hi there! I'm Jiwoo Kim **
+### 👋 **Hi there! I'm Jiwoo Kim**
 
 *SLOW & STEADY, WIN THE RACE*
 
