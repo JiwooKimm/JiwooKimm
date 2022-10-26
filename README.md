@@ -7,8 +7,13 @@
 ------
 
 <br>
+### 💫 Interests
+- *There is no second Earth*
+I hope to Scientist - Deep Learning Developer for prediction for climate change response plan
 
-#### 🌱 Stack (& currently Learning)
+
+
+### 🌱 Stack (& currently Learning)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/idl-004880?style=flat&logo=idl&logoColor=white">
 
@@ -22,18 +27,23 @@
 
 #### 🔭 Activities
 
-2022.07 ~ AI/Data Track of CNU SW Academy
+2022.07 ~ AI/Data Track of CNU SW Academy *(Rep. of Korea/ CNU)*
 
 
 <br>
 
-#### 🎓
+### 🎓
 
 2019.03 ~ 
 
 Space Plasma Physics of Magnetosphere
+
 Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
+
+2016.03 ~ 2019.02
+
+Dept. of Astronomy & Space Science, Chungnam National University
 
 
 
