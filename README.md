@@ -26,6 +26,10 @@
 #### 🔭 Activities
 
 - AI/Data Track of CNU SW Academy *(Rep. of Korea/ CNU)* **2022.07 ~ (now)**
+- KGMT Summer School *(Rep. of Korea/ KASI)* **2019.07**
+- UST Summer Internship (KASI campus) *(Rep. of Korea/ KASI)* **2018.07 ~ 2018.10 **
+
+
 
 
 <br>
