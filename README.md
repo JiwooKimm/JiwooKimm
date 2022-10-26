@@ -11,8 +11,11 @@
 <img src="https://img.shields.io/badge/idl-004880?style=flat&logo=idl&logoColor=white">
 <br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
 <!--<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white">-->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn &logoColor=white">
