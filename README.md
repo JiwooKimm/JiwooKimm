@@ -27,6 +27,7 @@
 
 - AI/Data Track of CNU SW Academy *(Rep. of Korea/ CNU)* **2022.07 ~ (now)**
 - KGMT Summer School *(Rep. of Korea/ KASI)* **2019.07**
+- 2019 CUBESAT Contest- Director of the ground station of Team ODIN  *(Rep. of Korea/ KARI)* **2019.04 ~ 2020.02**
 - UST Summer Internship *(Rep. of Korea/ KASI)* **2018.07 ~ 2018.10**
 
 
