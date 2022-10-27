@@ -46,7 +46,7 @@
 
 - 2016.03 ~ 2019.02
 
-  Dept. of Astronomy & Space Science, Chungnam National University
+  Dept. of Astronomy & Space Science, Chungnam National University (BD.)
 
 
 <br><br>
