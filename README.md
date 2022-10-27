@@ -9,7 +9,7 @@
 
 - Climate change, Environment, Space Weather
 - *There is no second Earth!* <br>
-  I hope to Scientist - Deep Learning Developer for prediction of climate change response plan. 
+  I hope to Data Scientis for prediction of climate change response plan. 
 
 <br>
 
