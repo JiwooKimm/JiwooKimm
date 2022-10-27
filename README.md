@@ -9,7 +9,8 @@
 
 - Climate change, Environment, Space Weather
 - *There is no second Earth!* <br>
-  I hope to Data Scientis for prediction of climate change response plan. 
+  I hope to be a data scientist for keeping our one and only Earth : <br>
+ Predict climate change, and make suggestions for the possible response plan. 
 
 <br>
 
