@@ -40,15 +40,12 @@
 
 - 2019.03 ~ 
   
-  Space plasma physic (esp. EMICWs) in the Earth's magnetosphere
-
+  Space plasma physic (esp. EMICWs) in the Earth's magnetosphere  
   Space Plasma Physics Lab.
-
   Dept. of Astronomy, Space Science and Geology, Chunganm National University
 
 
 - 2016.03 ~ 2019.02
-
   Dept. of Astronomy & Space Science, Chungnam National University (BD.)
 
 
