@@ -15,7 +15,7 @@
 #### 🎓
 
 - 2023.10 ~ <br>
-  Mathematical Atmosphere Physics Laboratory(MAPL)<br>
+  Mathematical Atmospheric Physics Laboratory(MAPL)<br>
   Dept. of Atmospheric Sciences, Yonsei University<br>
 - 2019.03 ~ 2022.02 <br>
   Space plasma physic (esp. EMICWs) in the Earth's magnetosphere <br>
